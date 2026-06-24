@@ -146,7 +146,7 @@ Nature's Crates Team`;
         // Parse header
         const header = parseCSVLine(lines[0]).map(h => h.trim().toLowerCase());
         const nameIdx = header.findIndex(h => h === 'name' || h === 'full name' || h === 'customer name');
-        const mobileIdx = header.findIndex(h => h === 'mobile number' || h === 'mobile' || h === 'phone' || h === 'phone number' || h === 'contact');
+        const mobileIdx = header.findIndex(h => h === 'mobile number' || h === 'mobile' || h === 'phone' || h === 'phone number' || h === 'phone no' || h === 'contact' || h === 'contact number');
 
         if (nameIdx === -1 || mobileIdx === -1) {
             alert('CSV must contain "Name" and "Mobile Number" columns.');

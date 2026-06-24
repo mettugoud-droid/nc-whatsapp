@@ -1,11 +1,11 @@
-Name,Mobile Number
-Rahul Sharma,+919876543210
-Priya Patel,+919876543211
-Amit Kumar,+919876543212
-Neha Singh,+919876543213
-Vikram Rao,+919876543214
-Sneha Gupta,+919876543215
-Arjun Nair,+919876543216
-Divya Menon,+919876543217
-Karthik Iyer,+919876543218
-Meera Joshi,+919876543219
+Name,Phone No,Customer Since,Purchased,Delivered,Order Count,Status,Purchased
+Rahul Sharma,+919876543210,2024-01-15,Yes,Yes,5,Active,2024-06-01
+Priya Patel,+919876543211,2024-02-20,Yes,Yes,3,Active,2024-05-15
+Amit Kumar,+919876543212,2024-03-10,Yes,No,2,Active,2024-06-10
+Neha Singh,+919876543213,2024-04-05,Yes,Yes,7,Active,2024-06-12
+Vikram Rao,+919876543214,2024-01-25,Yes,Yes,4,Active,2024-05-28
+Sneha Gupta,+919876543215,2024-05-12,Yes,Yes,1,Active,2024-06-05
+Arjun Nair,+919876543216,2024-02-18,Yes,No,6,Active,2024-06-08
+Divya Menon,+919876543217,2024-03-22,Yes,Yes,2,Active,2024-05-30
+Karthik Iyer,+919876543218,2024-04-30,Yes,Yes,3,Active,2024-06-14
+Meera Joshi,+919876543219,2024-06-01,Yes,Yes,1,Active,2024-06-20
